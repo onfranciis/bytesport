@@ -1,0 +1,34 @@
+.card{
+    height: 400px;
+    width: 350px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    margin: 5px;
+}
+
+.cardPart1{
+    height: 310px;
+    background-color: green;
+    
+}
+
+.cardPart1 img{
+    height: 100%;
+    width: 100%;
+}
+
+.cardPart2{
+    height: 90px;
+    background-color: #1D457B;
+    
+}
+
+.card p{
+    width: fit-content;
+    color: white;
+    background-color: transparent;
+    font-size: 20px;
+    margin: 5px auto;
+}

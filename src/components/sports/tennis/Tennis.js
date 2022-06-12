@@ -1,5 +1,9 @@
 import React from 'react';
 import './Tennis.css'
+import { Swiper, SwiperSlide } from 'swiper/react';
+import 'swiper/css';
+import Card from '../../cards/Card';
+import Image1 from '../../../resources/images/Novak Djokovic.jpg';
 
 const Tennis = () => {
   return (
@@ -22,6 +26,20 @@ const Tennis = () => {
                 <p>
                     Meet The GOATS
                 </p>
+
+                <Swiper
+                spaceBetween={50}
+                slidesPerView={3}
+                onSlideChange={() => console.log('slide change')}
+                onSwiper={(swiper) => console.log(swiper)}
+                >
+                <SwiperSlide>
+                    <Card name='John doe' nation='Switzerland' title='103 AT' image={Image1}/>
+                </SwiperSlide>
+                <SwiperSlide>Slide 2</SwiperSlide>
+                <SwiperSlide>Slide 3</SwiperSlide>
+                <SwiperSlide>Slide 4</SwiperSlide>
+                </Swiper>
 
             </div>
 
