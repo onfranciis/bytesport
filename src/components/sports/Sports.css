@@ -1,0 +1,37 @@
+.sports-wwb{
+    font-size: 50px;
+    text-align: center;
+    margin: 30px 0;
+}
+
+.sports-component{
+    height: 70px;
+    width: 700px;
+    background-color: red;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px auto;
+}
+
+.sports-component:hover{
+    background-size: 110%;
+    transform: translateX(0px);
+}
+
+ul a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-shadow: 0px 0px 2px black;
+}
+
+.sports-tennis{
+    background-image: url('../../resources/images/Tennis\ Header.jpg');
+}
