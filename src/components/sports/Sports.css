@@ -1,13 +1,24 @@
+.sports{
+    height: 100%;
+    background-color: white;
+    padding: 0 0 50px 0;
+    margin: 0;
+}
+
 .sports-wwb{
-    font-size: 50px;
+    color: #1D457B;
+    font-size: 3rem;
     text-align: center;
+    text-shadow: 0 0 1px black;
+    letter-spacing: 3px;
     margin: 30px 0;
 }
 
 .sports-component{
-    height: 70px;
+    height: 100px;
     width: 700px;
-    background-color: red;
+    max-width: 90%;
+    background-color: #1D457B;
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -21,7 +32,7 @@
 }
 
 .sports-component:hover{
-    background-size: 110%;
+    background-size: 120%;
     transform: translateX(0px);
 }
 
@@ -33,5 +44,9 @@ ul a{
 }
 
 .sports-tennis{
-    background-image: url('../../resources/images/Tennis\ Header.jpg');
+    background-image: url('../../resources/images/tennis/Tennis\ Header2.jpg');
+}
+
+.sports-soccer{
+    background-image: url('../../resources/images/soccer/Soccer\ Header.jpg');
 }

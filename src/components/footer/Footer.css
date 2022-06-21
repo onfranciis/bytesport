@@ -1,0 +1,37 @@
+.footer{
+    height: auto;
+    background-color: #1D457B;
+    text-align: center;
+    padding: 30px;
+}
+
+.footer a{
+    height: auto;
+    width: fit-content;
+    background-color: white;
+    color: #1D457B;
+    font-size: 25px;
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 12px;
+    padding: 5px 10px;
+    margin: 0 5px;
+
+}
+
+.footer a:hover{
+    background-color: #1D457B;
+    color: white;
+}
+
+.footer-home-icon{
+    margin: 0 0 -2px 0;
+}
+
+.footer-sports-icon{
+    margin: 0 0 -2px 0;
+}
+
+.footer-info-icon{
+    margin: 0 0 -2px 0;
+}

@@ -1,10 +1,15 @@
 import React from 'react';
 import './Sports.css';
 import { Link } from 'react-router-dom';
+import Nav from '../nav/Nav';
+import useDocumentTitle from '../../hooks/useDocumentTitle';
 
 const Sports = () => {
+  useDocumentTitle('Sports | ByteSport')
+
   return (
     <div className='sports'>
+      <Nav/>
       <p className='sports-wwb'>
         What we bit?
       </p>
@@ -16,8 +21,8 @@ const Sports = () => {
           </li>
         </Link>
 
-        <Link to='/sports/tennis'>
-          <li className='sports-tennis sports-component'>
+        <Link to='/sports/soccer'>
+          <li className='sports-soccer sports-component'>
             Soccer
           </li>
         </Link>

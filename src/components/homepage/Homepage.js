@@ -1,10 +1,15 @@
 import React from 'react';
+import useDocumentTitle from '../../hooks/useDocumentTitle';
+import Nav from '../nav/Nav';
 import './Homepage.css';
 
 const Homepage = () => {
+    useDocumentTitle('Home | ByteSport')
+
   return (
       <>
     <div className='homepage'></div>
+        <Nav/>
         <div className='homepage-text'>
             <p className='homepage-welcome'>
                 Welcome to

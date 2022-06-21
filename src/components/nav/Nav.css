@@ -1,19 +1,30 @@
 nav{
+    height: auto;
+    width: 100%;
     background-color: #1D457B;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    gap: 10px;
     padding: 0 20px;
+    position: relative;
 }
 
 .logo{
+    height: fit-content;
+    background-color: transparent;
     display: flex;
     flex-direction: row;
+    justify-self: flex-start;
 }
 
 .logo a{
     color: white;
     text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    align-self: baseline;
     padding: 20px 0;
     margin: 0 0 0 20px;
 }
@@ -22,6 +33,7 @@ nav{
     background-color: transparent;
     display: flex;
     flex-direction: row;
+    /* flex-wrap: wrap; */
     justify-content: space-between;
 }
 
@@ -32,7 +44,27 @@ nav{
 }
 
 .nav-links a:hover{
-    background-color: rgb(255, 255, 255);
+    background-color: white;
     color: #1D457B;
 }
 
+test{
+    color: #000916;
+    color: #1D457B;
+    color: #000916;
+}
+
+@media only screen and (max-width: 400px) {
+    nav{
+        height: auto;
+        width: 100%;
+        background-color: #1D457B;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        gap: 0px;
+        padding: 0;
+        position: relative;
+    }
+}
