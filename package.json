@@ -12,7 +12,8 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "swiper": "^8.2.3",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "homepage" : "http://bytesport.onfranciis.cf"
   },
   "scripts": {
     "start": "react-scripts start",

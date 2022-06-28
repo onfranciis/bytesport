@@ -27,7 +27,7 @@ const Sports = () => {
           </li>
         </Link>
 
-        <Link to='/sports/tennis'>
+        {/* <Link to='/sports/tennis'>
           <li className='sports-tennis sports-component'>
             Basketball
           </li>
@@ -43,7 +43,7 @@ const Sports = () => {
           <li className='sports-tennis sports-component'>
             Cricket
           </li>
-        </Link>
+        </Link> */}
 
       </ul>
     </div>
