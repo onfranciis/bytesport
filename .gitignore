@@ -10,6 +10,7 @@
 
 # production
 /build
+/bytesport-production
 
 # misc
 .DS_Store

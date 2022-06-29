@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53a32fe3.css",
+    "main.js": "/static/js/main.db6a25d4.js",
+    "static/media/Homepage BG 2.jpg": "/static/media/Homepage BG 2.3b467f1da1a89128f57b.jpg",
+    "static/media/Alfred Di Stefano.jpg": "/static/media/Alfred Di Stefano.7c0de9c0ec04d2a97e42.jpg",
+    "static/media/Cristiano Ronaldo.jpg": "/static/media/Cristiano Ronaldo.19b42a89e2e04db207e8.jpg",
+    "static/media/Soccer Header.jpg": "/static/media/Soccer Header.97eadbd70ec705c6f08d.jpg",
+    "static/media/concacaf.png": "/static/media/concacaf.6cafa1d53e3fcde39270.png",
+    "static/media/Roger Federer.jpg": "/static/media/Roger Federer.1da2e69c8e628fdb92c0.jpg",
+    "static/media/conmebol.jpg": "/static/media/conmebol.5b25e307f8014005c571.jpg",
+    "static/media/afc-logo.jpg": "/static/media/afc-logo.368f7f504b79900e0766.jpg",
+    "static/media/uefa.png": "/static/media/uefa.5c642460d5901b0fceac.png",
+    "static/media/Rafael Nadal.jpg": "/static/media/Rafael Nadal.3e41a77a7d3666c27cd3.jpg",
+    "static/media/Ivan Lendl.jpg": "/static/media/Ivan Lendl.fb1b6361d52d26f7470f.jpg",
+    "static/media/Ronaldo Nazario.jpg": "/static/media/Ronaldo Nazario.9c3f8eefd08e096f88d3.jpg",
+    "static/media/Diego Maradona.jpg": "/static/media/Diego Maradona.f9eab4f0c9472ef3a127.jpg",
+    "static/media/Tennis Header2.jpg": "/static/media/Tennis Header2.fb0f0c182d04f779111e.jpg",
+    "static/media/Messi.jpg": "/static/media/Messi.40b1bc9b1bc3309e1c68.jpg",
+    "static/media/Jimmy Conners.jpg": "/static/media/Jimmy Conners.c8718ef065c3c077b12b.jpg",
+    "static/media/Novak Djokovic.jpg": "/static/media/Novak Djokovic.1abc579c548ba313c2c0.jpg",
+    "static/media/Franz Beckenbauer.jpg": "/static/media/Franz Beckenbauer.1ce80427e683afcd9138.jpg",
+    "static/media/fifa-logo.png": "/static/media/fifa-logo.b722a74b8a3ed1b36526.png",
+    "static/media/itf.jpg": "/static/media/itf.fe7f7e46ced3d47f4537.jpg",
+    "static/media/PELÉ.jpg": "/static/media/PELÉ.ee4ba303ccf2ca377be9.jpg",
+    "static/media/CAF-logo.webp": "/static/media/CAF-logo.94d24d09ba3de4caf51b.webp",
+    "static/media/atp.jpg": "/static/media/atp.950d854fa8947909e515.jpg",
+    "static/media/ofc-logo.webp": "/static/media/ofc-logo.390c219d3187fa6c66ff.webp",
+    "index.html": "/index.html",
+    "main.53a32fe3.css.map": "/static/css/main.53a32fe3.css.map",
+    "main.db6a25d4.js.map": "/static/js/main.db6a25d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a32fe3.css",
+    "static/js/main.db6a25d4.js"
+  ]
+}
